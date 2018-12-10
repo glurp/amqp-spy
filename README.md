@@ -1,5 +1,5 @@
-AMQP-SPY
-========
+AMQP-SPY : guidebug.rb
+======================
 
 Simple GUI tool for show messages trafic and send (json) message to any routing_key.
 
@@ -7,10 +7,11 @@ Simple GUI tool for show messages trafic and send (json) message to any routing_
 
 Tested on windows10/RabbitMQ.
 
-install
-======
+Installation
+============
 
-> gem isntall bunny
+> gem install bunny
+
 > gem install Ruiby
 
 TODO
