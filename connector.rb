@@ -1,4 +1,4 @@
-# copyright regis d'Auabrede, License : MIT
+# copyright regis d'Aubarede, License : MIT
 
 class SaiaAmqpConnector
   def initialize(options)

@@ -1,4 +1,4 @@
-# copyright regis d'Auabrede, License : MIT
+# copyright regis d'Aubarede, License : MIT
 
 require 'bunny' # gem install bunny
 require 'json'

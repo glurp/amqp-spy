@@ -1,4 +1,4 @@
-# copyright regis d'Auabrede, License : MIT
+# copyright regis d'Aubarede, License : MIT
 
 #################################################################################################################
 #  subscribe.rb : abonnement a un exchenge/topic, print les messages recus
