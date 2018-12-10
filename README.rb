@@ -3,7 +3,7 @@ AMQP-SPY
 
 Simple GUI tool for show messages trafic and send (json) message to any routing_key.
 
-https://raw.githubusercontent.com/glurp/amqp-spy/master/hmi.png
+![hmi](https://raw.githubusercontent.com/glurp/amqp-spy/master/hmi.png)
 
 Tested on windows10/RabbitMQ.
 
