@@ -11,8 +11,8 @@ TODO
 ====
 
 * edit connection / reconnect
-* edit messages tempaltes
-* reconnect on amqp shutdown.
+* edit messages templates
+* reconnect on amqp shutdown. (actualy : exit !)
 
 License
 =======
